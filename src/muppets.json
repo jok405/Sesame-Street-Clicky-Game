@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Elmo",
+    "image": "https://www.georgetown.edu/sites/www/files/styles/hero_image/public/elmo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Big Bird",
+    "image": "https://philanthropyforum.org/wp-content/uploads/2017/03/Big-Bird-web-400x400.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cookie Monster",
+    "image": "https://assets.marthastewart.com/styles/wmax-570/d19/cookie-monster-1116/cookie-monster-1116.png?itok=-mdEek-C"
+  },
+  {
+    "id": 4,
+    "name": "Bert",
+    "image": "http://www.popjoust.com/images/jousters/bert2.png"
+  },
+  {
+    "id": 5,
+    "name": "Ernie",
+    "image": "https://pbs.twimg.com/profile_images/466943815962476545/tHGnzXka_400x400.png"
+  },
+  {
+    "id": 6,
+    "name": "Abby Cadabby",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/a/a6/Abby-standing.jpg/revision/latest?cb=20101009175430"
+  },
+  {
+    "id": 7,
+    "name": "Count von Count",
+    "image": "https://pbs.twimg.com/profile_images/2184519702/CountVonCount_400x400.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Oscar the Grouch",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71ra%2Bc7xVSL._SY355_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Zoe ",
+    "image": "https://i.pinimg.com/originals/ff/3b/24/ff3b2448b58233bec16fab5f87127e84.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Grover",
+    "image": "https://i.pinimg.com/originals/5e/a3/8d/5ea38d76762e73258c188c4455f34137.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Rosita",
+    "image": "https://www.mormontabernaclechoir.org/content/dam/motab/about/guests/rositaBio.png/_jcr_content/renditions/cq5dam.web.1280.1280.png"
+  },
+  {
+    "id": 12,
+    "name": "Snuffy",
+    "image": "https://muppetmindset.files.wordpress.com/2012/03/845ef-snuffydancing.png"
+  }
+]

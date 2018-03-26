@@ -1,0 +1,11 @@
+button:hover{
+    background-color: #b0c2cc
+}
+
+button {
+    background: rgb(245, 241, 241);
+    border-radius: 4px;
+    margin-left: 1rem;
+    float: left;
+    display: inline-block;
+}
