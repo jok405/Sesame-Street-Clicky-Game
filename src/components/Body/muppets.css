@@ -1,0 +1,32 @@
+.cards {
+    background: #fff;
+    border-radius: 2px;
+    height: 125px;
+    width: 125px;
+    margin: 0.5rem;
+    padding: 10px;
+    position: relative;
+    cursor: pointer;
+}
+
+button {
+    margin: 0px 0px 0px 0px;
+}
+
+button:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.12);
+    background-image: url("border2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 3.5px 3.5px 3.5px 3.5px #868686;
+}
+
+.cards > .img-container {
+    height: 100%;
+}
+
+.cards > .img-container >  img {
+    width: 100%;
+}
+
