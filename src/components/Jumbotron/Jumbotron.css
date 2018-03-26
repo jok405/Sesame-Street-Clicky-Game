@@ -1,0 +1,21 @@
+.jumbotron {
+    margin-top: 60px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+    background-image: url("https://muppetmindset.files.wordpress.com/2014/10/sesamestreet-studioset.jpg");
+    background-size: 100%;
+}
+
+h1{
+    background-color: #00ab4d;
+    border: 4px solid yellow;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    left: 21%;
+    font-size: 25px;
+    width: 60%;
+}
