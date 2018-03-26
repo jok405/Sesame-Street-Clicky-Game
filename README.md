@@ -1,4 +1,4 @@
-# Click-Game
+# Sesame Street Theme Clicky-Game
 
 Please check out the app in Heroku [here](https://###).
 
@@ -7,5 +7,5 @@ Please check out the app in Heroku [here](https://###).
 ### Home page
 ![Home Page](/screenshots/home.png)
 
-### Mobile Page
-![Mobile Page](/screenshots/mobile.png)
+### Responsive Page
+![Responsive Page](/screenshots/responsive.png)
