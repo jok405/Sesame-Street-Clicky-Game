@@ -1,0 +1,30 @@
+{
+  "name": "sesamestreetclickygame",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Please check out the app in Heroku [here](https://###).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jok405/Sesame-Street-Clicky-Game.git"
+  },
+  "author": "John Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jok405/Sesame-Street-Clicky-Game/issues"
+  },
+  "homepage": "https://github.com/jok405/Sesame-Street-Clicky-Game#readme"
+}
